@@ -63,12 +63,13 @@ h4{
 }
 
 .tredje {
-	font-size: 18px;
+	font-size: 16px;
 }
 
 p{
 color: #5d535e;
 font-size: 17px;
+font-family: arial;
 }
 
 .vit{
@@ -125,6 +126,9 @@ font-size: 17px;
 }
 .andra {
 	font-size: 26px;
+}
+.tredje {
+	font-size: 24px;
 }
 
 
